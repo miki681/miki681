@@ -1,4 +1,9 @@
 ## Hi there 👋
+#I am miki.
+#I am working on github.
+- Web Dev
+[markdown guide](https://www.markdownguide.org/)
+[github profile]"https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.blog%2F&psig=AOvVaw2VDDtesNiL7Ke1l4Grjbnh&ust=1727445687076000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjrjebi4IgDFQAAAAAdAAAAABAE"
 
 <!--
 **miki681/miki681** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
